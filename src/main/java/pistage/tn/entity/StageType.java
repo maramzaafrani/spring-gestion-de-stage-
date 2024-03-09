@@ -1,0 +1,7 @@
+package pistage.tn.entity;
+
+public enum StageType {
+    HUMAN_AND_SOCIAL_TRAINING_INTERNSHIP,
+    COMPANY_IMMERSION_INTERNSHIP,
+    ENGINEERING_INTERNSHIP
+}
